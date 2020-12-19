@@ -1,1 +1,1 @@
-# LattesService
+O LattesService é um software desenvolvido em linguagem Python® e framework Django® com o propósito de disponibilizar, como web service, dados de produção científica obtidos da Plataforma Lattes por meio do scriptLattes.
